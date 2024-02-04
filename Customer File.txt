@@ -1,4 +1,3 @@
-CustomerRef,CustomerName,AddressLine1,AddressLine2,Town,County,Country,PostCode
 1,John Smith,Acacia Road,Any Village,Any Town,Yorkshire,England,AT12 3AT
 2,Bill Jones,Hill Close,Barton,Wigan,Lancashire,England,WN4 3QN
 3,Rose Starling,The Lane,Wood Hill,Arlow,Devonshire,England,DK12 3TR
