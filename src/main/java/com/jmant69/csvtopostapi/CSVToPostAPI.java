@@ -21,7 +21,7 @@ public class CSVToPostAPI {
 
 	public static void main(String[] args) throws URISyntaxException, IOException {
 
-		String path = "C:/Users/Julian/Documents/Customer File.txt";
+		String path = "/Users/julianmantovani/git/CSVToPostAPI/Customer File.txt";
 		String line = "";
 
 		URL url = new URI("http://localhost:8080/customer").toURL();
